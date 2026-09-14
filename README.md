@@ -23,8 +23,6 @@ Building useful things, learning every day, and improving one project at a time.
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/hithesh-k-14656132a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
@@ -34,7 +32,6 @@ Building useful things, learning every day, and improving one project at a time.
 </a>
 </p>
 
----
 
 ---
 
@@ -70,9 +67,6 @@ Building useful things, learning every day, and improving one project at a time.
 
 ### 🌪️ CycloneVision
 **AI-driven tropical cyclone detection, classification, intensity estimation and future track prediction.**
-
-### 📄 Job Description Analyzer
-**NLP-based application that compares resumes with job descriptions and identifies matched and missing skills.**
 
 ### 🚌 SchoolBusTracker
 **Web-based application for tracking and managing school bus information.**

@@ -23,14 +23,18 @@ Building useful things, learning every day, and improving one project at a time.
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/hithesh-k-14656132a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:hitheshkajemoole2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
 </p>
+
+---
 
 ---
 
